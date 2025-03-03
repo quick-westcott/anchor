@@ -145,3 +145,6 @@ Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 
 <!-- chore: update deps 2026-02-26 -->
+
+
+<!-- docs: update README 2025-03-03 -->
