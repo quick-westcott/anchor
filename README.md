@@ -157,3 +157,6 @@ Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 
 <!-- docs: clarify 2025-08-04 -->
+
+
+<!-- style: format 2025-09-24 -->
