@@ -163,3 +163,6 @@ Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 
 <!-- fix: link 2025-11-15 -->
+
+
+<!-- docs: add example 2026-01-05 -->
